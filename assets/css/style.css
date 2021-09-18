@@ -180,15 +180,56 @@ a:hover{
     color: black;
     margin-bottom: -5px;
 }
-.GUI-order{
-    width: 100%;
-    background-image: url(../css/img/bg.jpg);
-    /* background-size: cover; */
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 7% 0;
-    display: flex;
-    align-items: center ;
-    justify-content: center;
-   
+
+.input-responsive{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.order-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+.fieldset{
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+    
+}
+.food-menu-desc{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+.food-menu-img{
+    width: 20%;
+    float: left;
+}
+.order{
+    width: 50%;
+    
+}
+.container-order{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.field{
+    position: relative;
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+    left: 400px;
+}
+.order-foods{
+    margin-top: 100px;
+    background-color:rgb(56, 185, 202);
+    margin-right: 0;
+    box-sizing: border-box;
 }
