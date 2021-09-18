@@ -18,13 +18,13 @@
                 </div>
                 <ul  class="NavItems">
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="index.php">Home</a>
                 </li>
                 <li>
-                    <a href="categories.html">Categories</a>
+                    <a href="categories.php">Categories</a>
                 </li>
                 <li>
-                    <a href="foods.html">Foods</a>
+                    <a href="foods.php">Foods</a>
                 </li>
                 <li>
                     <a href="#">Contact</a>
@@ -43,21 +43,21 @@
     <div class="content-foods">  
     <h2 class="text-center">Explore Foods</h2>
     <div class="Box3">
-        <a href="categories.html" title="Pizza">
+        <a href="categories.php" title="Pizza">
             <div class="box-img">
             <img src="assets/css/img/pizza.jpg" class="img-food-menu" >
             <p class="text-food">Pizza</p>
             </div>
         </a>
 
-        <a href="categories.html" title="Burger">
+        <a href="categories.php" title="Burger">
             <div class="box-img">
             <img src="assets/css/img/burger.jpg" class="img-food-menu">
             <p Class="text-food">Burger</p>
             </div>
         </a>
    
-        <a href="categories.html" title="Momo">
+        <a href="categories.php" title="Momo">
             <div class="box-img">
             <img src="assets/css/img/momo.jpg" class="img-food-menu">
             <p class="text-food">Momo</p>
@@ -65,21 +65,21 @@
         </a>
     </div>
     <div class="Box3">
-        <a href="categories.html" title="Pizza">
+        <a href="categories.php" title="Pizza">
             <div class="box-img">
             <img src="assets/css/img/pizza.jpg" class="img-food-menu" >
             <p class="text-food">Pizza</p>
             </div>
         </a>
 
-        <a href="categories.html" title="Burger">
+        <a href="categories.php" title="Burger">
             <div class="box-img">
             <img src="assets/css/img/burger.jpg" class="img-food-menu">
             <p Class="text-food">Burger</p>
             </div>
         </a>
    
-        <a href="categories.html" title="Momo">
+        <a href="categories.php" title="Momo">
             <div class="box-img">
             <img src="assets/css/img/momo.jpg" class="img-food-menu">
             <p class="text-food">Momo</p>
@@ -87,21 +87,21 @@
         </a>
     </div>
     <div class="Box3">
-        <a href="categories.html" title="Pizza">
+        <a href="categories.php" title="Pizza">
             <div class="box-img">
             <img src="assets/css/img/pizza.jpg" class="img-food-menu" >
             <p class="text-food">Pizza</p>
             </div>
         </a>
 
-        <a href="categories.html" title="Burger">
+        <a href="categories.php" title="Burger">
             <div class="box-img">
             <img src="assets/css/img/burger.jpg" class="img-food-menu">
             <p Class="text-food">Burger</p>
             </div>
         </a>
    
-        <a href="categories.html" title="Momo">
+        <a href="categories.php" title="Momo">
             <div class="box-img">
             <img src="assets/css/img/momo.jpg" class="img-food-menu">
             <p class="text-food">Momo</p>
@@ -109,21 +109,21 @@
         </a>
     </div>
     <div class="Box3">
-        <a href="categories.html" title="Pizza">
+        <a href="categories.php" title="Pizza">
             <div class="box-img">
             <img src="assets/css/img/pizza.jpg" class="img-food-menu" >
             <p class="text-food">Pizza</p>
             </div>
         </a>
 
-        <a href="categories.html" title="Burger">
+        <a href="categories.php" title="Burger">
             <div class="box-img">
             <img src="assets/css/img/burger.jpg" class="img-food-menu">
             <p Class="text-food">Burger</p>
             </div>
         </a>
    
-        <a href="categories.html" title="Momo">
+        <a href="categories.php" title="Momo">
             <div class="box-img">
             <img src="assets/css/img/momo.jpg" class="img-food-menu">
             <p class="text-food">Momo</p>
